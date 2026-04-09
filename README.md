@@ -1,4 +1,5 @@
-4/9 更新自动读取表结构，表结构硬编码升级动态注入
+26/04/09  更新自动读取表结构，表结构硬编码升级动态注入
+
 ### LangGraph_SQL_Agent
 
 基于 LangGraph 构建的多 Agent 协作数据分析平台。⽤⼾以⾃然语⾔提问，系统⾃动编排 SQL ⽣成、数据查询、趋势分析与报告⽣成四个阶段，输出结构化分析报告并附带溯源 SQL，实现从⾃然语⾔到数据洞察的完整闭环。
@@ -17,6 +18,7 @@
 streamlit run app.py   
 
 ## 运行展示
+<img width="938" height="1292" alt="image" src="https://github.com/user-attachments/assets/1084f32a-3112-4f91-bc7a-c7c43b32fb1c" />
 <img width="1277" height="803" alt="image" src="https://github.com/user-attachments/assets/40c1ec79-adbf-499f-8206-014ff15b679c" />
 <img width="962" height="1276" alt="image" src="https://github.com/user-attachments/assets/4a92a039-ee48-48c3-94a6-7f7fec7e31a1" />
 
