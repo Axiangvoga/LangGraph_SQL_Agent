@@ -6,7 +6,8 @@
 
 ### 项目架构图
 #### AgentState 定义 ├── agent_state.py            
-#### LLM 初始化 ├── llm.py      
+#### LLM 初始化 ├── llm.py   
+#### schema agent类  ├── schema-agent.py   
 #### SQL Agent 类 │   ├── sql_agent.py  
 #### Analyst Agent 类 ├── analyst_agent.py   
 #### Report Agent 类 ├── report_agent.py     
